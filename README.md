@@ -110,21 +110,23 @@ Hello, I am an undergraduate Computer Science student.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AriadnaRFdez&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=1F222E&title_color=B085E8FF&icon_color=D2B2FFFF&text_color=BCFFECFF" alt="Ahri's github stats" />
 </a>
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AriadnaRFdez&layout=compact&hide_border=true&theme=tokyonight&bg_color=1F222E&title_color=B085E8FF&icon_color=D2B2FFFF&text_color=BCFFECFF" alt="Ahri's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ari-7&layout=compact&hide_border=true&theme=tokyonight&bg_color=1F222E&title_color=B085E8FF&icon_color=D2B2FFFF&text_color=BCFFECFF" alt="Ahri's github stats" />
 </a>
+-->
 
 <!--Light Mode-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AriadnaRFdez&show_icons=true&include_all_commits=true&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
 </a>
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AriadnaRFdez&layout=compact&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
 </a>
-
+-->
 <br />
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ​ </h2> 
