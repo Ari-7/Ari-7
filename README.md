@@ -117,7 +117,7 @@ Hello, I am an undergraduate Computer Science student.
 
 <!--Light Mode-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AriadnaRFdez&&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AriadnaRFdez&show_icons=true&include_all_commits=true&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
