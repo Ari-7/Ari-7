@@ -24,14 +24,15 @@
   
 <!-- Description -->  
 ```diff
-I'm a Computer Science student.
-Currently working on improving my skills.
+Hello, I am an undergraduate Computer Science student.
 
-🛠️ +5 years of competitive programming and problem solving.
-#  👨‍💻 Computer Science Undergraduate.
-+  ✔️ Responsible worker.
--  🚀 Cybersecurity student.
-!  ✨ If you can imagine it, you can program it. 
+ A motivated and curious self-learner interested in Cybersecurity, Digital Twins, and IoT.
+ I enjoy understanding how systems work and building secure, scalable solutions.
+
+#  🛠️ Programming competitions enthusiast
+#  👨‍💻 Discord and Telegram bot developer
++  ✔️ Eager to learn, collaborate and continue growing
+!  ✨ If you can imagine it, you can program it
 ```
 <br />
 
