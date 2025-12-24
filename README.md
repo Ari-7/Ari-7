@@ -37,11 +37,20 @@ Hello, I am an undergraduate Computer Science student.
 <br />
 
 <!-- Commit Snake -->  
-<div align="left">
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
- 
-</div>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake.svg"
+  >
+  <img 
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake.svg"
+  >
+</picture>
 
 <!--Languages and Tools Section-->          
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
@@ -108,12 +117,12 @@ Hello, I am an undergraduate Computer Science student.
 
 <!--Light Mode-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ari-7&&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AriadnaRFdez&&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ari-7&layout=compact&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AriadnaRFdez&layout=compact&theme=transparent&bg_color=FFFFFFFF" alt="Ahri's github stats" />
 </a>
 
 <br />
